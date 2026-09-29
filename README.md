@@ -27,7 +27,7 @@ Clone and build:
 
 ```bash
 git clone <your-repo>
-cd mnemonic-pass
+cd pass_generator_rust
 cargo build --release
 ```
 
